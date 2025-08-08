@@ -1,4 +1,4 @@
-#Build-a-Calculator-CLI-App
+# Build-a-Calculator-CLI-App
 
 Task was done in the python editor and performed in Terminal & Python Run Module!
 
