@@ -1,3 +1,4 @@
+#Build-a-Calculator-CLI-App
 Task was done in the python editor and performed in Terminal & Python Run Module!
 
 <img width="1734" height="926" alt="image" src="https://github.com/user-attachments/assets/e2ec77ac-3c14-46fa-8e5e-dd1fbd58205e" />
