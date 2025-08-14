@@ -1,6 +1,6 @@
 # Build-a-Calculator-CLI-App
 
-# 🧮 CLI Calculator with Event Dispatcher
+# CLI Calculator with Event Dispatcher
 
 A clean and extensible command-line calculator built in Python using an event dispatcher pattern. Supports basic arithmetic operations and demonstrates dynamic function mapping.
 
