@@ -1,8 +1,32 @@
 # Build-a-Calculator-CLI-App
 
-Task was done in the python editor and performed in Terminal & Python Run Module!
+# 🧮 CLI Calculator with Event Dispatcher
+
+A clean and extensible command-line calculator built in Python using an event dispatcher pattern. Supports basic arithmetic operations and demonstrates dynamic function mapping.
+
+## 🚀 Features
+
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division (with zero-division handling)
+- 🧠 Event-driven architecture using custom dispatcher
+- 🖥️ Interactive CLI menu
+
+## 🛠️ Tech Stack
+
+- **Language**: Python 3.x
+- **Libraries**: Standard Library only
+
+## 📦 Installation
+
+1. **Clone the repository or copy the script**
+
+``bash
+git clone https://github.com/your-username/cli-calculator.git
+cd cli-calculator
+
 
 <img width="1734" height="926" alt="image" src="https://github.com/user-attachments/assets/e2ec77ac-3c14-46fa-8e5e-dd1fbd58205e" />
 
-<img width="759" height="607" alt="image" src="https://github.com/user-attachments/assets/2d425406-9a7b-48ec-9ea6-6132d8acb475" />
 
